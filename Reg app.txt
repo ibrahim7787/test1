@@ -1,0 +1,45 @@
+	AK: AKIAYEGQTYLXSBIKPQP4
+S Acces Key: 1+aYsAkOBr4bxX+VwGW4Dd3AcT2Rtx7Q6SnEnJDx
+
+
+
+https://chamindac.blogspot.com/2020/05/deploying-infrastructure-to-aws.html
+
+
+Initialize job
+
+Download artifact - _Core2WebApp-CI - drop
+
+sudo apt-get update
+
+sudo apt-get install nginx
+
+Install .Net
+
+Extract files
+
+Create paths and permissions
+
+Copy web app files
+
+Copy nginx config
+
+Copy Web App Service File
+
+enable and start aspnetcore
+
+restart nginx
+
+AWS Shell Script
+
+Finalize Job
+
+succeeded
+
+
+
+
+
+
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux

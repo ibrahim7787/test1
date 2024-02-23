@@ -1,0 +1,29 @@
+IMPORTANT LINK :
+
+1. https://vikram-purohit.medium.com/azure-devops-create-a-ci-cd-pipeline-for-simple-php-web-app-53d9f9f24b78
+2. https://www.azure365pro.com/azure-devops-create-ci-cd-pipeline-for-php-web-app/
+3. https://learn.microsoft.com/en-us/azure/devops/pipelines/ecosystems/php?view=azure-devops
+
+
+
+
+Stack Overflow link : https://stackoverflow.com/questions/65999572/azure-devops-build-and-deploy-simple-php-web-app
+
+
+
+PHP HELLO WORLD:
+
+<?php
+
+echo("hello world");
+
+?>
+
+A learning management system (LMS) is a software application that helps with the administration, documentation, tracking, reporting, automation, and delivery of educational courses, training programs, materials, or learning and development programs.
+
+Working with php source codes with composer and apcahe webserver:
+
+when we want to generate Artifact file from our source code we can use the extension of the PHP is named as COMPOSER which we have to install and configure.
+Later we can check the composer in the command prompot by giving {composer}. Before that we have to create a file called composer.json in that particular directory. and later we we traget to that particular location by the command prompot we have to upadte and give command like (composer install) it will generaete a file with the required dependencies. after that we can work on the apache to deploy those files.
+
+For the deployment we have to integrate our PHP and APACHE with the dependent modules {PHP8APACHE2_4.dll} with the help of this module we have to connect php and apache. And we it comes to the deployment we have to move or copy the files into the (/APACHE24/htdocs) folder and we have to start the servies we can start by comands or we can start by going into services. we can search in web by searching (Localhost) it will show the output.
